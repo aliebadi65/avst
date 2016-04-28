@@ -291,19 +291,19 @@ function create_config( )
     "weather",
     "help"
     },
-    sudo_users = {212990316},--Sudo users
+    sudo_users = {136141698},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[avast-BOT V6.3 - Open Source
+    about_text = [[SMART V1 - Open Source
 An advance Administration bot based on TeleSeed 
 
 https://github.com/Arashalone/avast-BOT-V6.3
 
+Sudo:
+@aliebadi5
 Developer:
 Arash Nomiri @arashnomiri
 
-Our channel:
-@avast_Team
 ]],
     help_text_realm = [[
 Realm Commands:
