@@ -1,15 +1,16 @@
 do
 
 function run(msg, matches)
-  return 'avast-BOT V6.3'.. VERSION .. [[ 
+  return 'Smart-bot v1'.. VERSION .. [[ 
  
+ Sudo: @aliebadi5
   Developer : @arashnomiri
   
   Channel : @avast_team
   
   Open git : https://github.com/Arashalone/avast-BOT-V6.3.git
   
- avast-BOT V6.3
+ SMART BOT V1
   
   All rights reserved.
   __________________]]
